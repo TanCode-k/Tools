@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.simple.middleman">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <application
+        android:name="com.simple.middleman.lanmitm.AppContext"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.simple.middleman.lanmitm.ui.HttpClone" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.HostsActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.SniffActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.HijackActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.BrowserActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.HttpActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.InjectActivity" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.HijackHistory" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.MitmSelect" />
+        <activity android:name="com.simple.middleman.lanmitm.ui.KillActivity" />
+        <activity
+            android:name="com.oinux.lanmitm.ui.AboutActivity" />
+
+        <service android:name="com.simple.middleman.lanmitm.ArpService" />
+        <service android:name="com.simple.middleman.lanmitm.HttpService" />
+        <service android:name="com.simple.middleman.lanmitm.SnifferService" />
+        <service android:name="com.simple.middleman.lanmitm.HijackService" />
+        <service android:name="com.simple.middleman.lanmitm.InjectService" />
+        <service android:name="com.simple.middleman.lanmitm.KillService" />
+
+        <receiver android:name="com.simple.middleman.lanmitm.NetworkReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,5 @@
+include ':easypermission'
+include ':xposeplugin'
+include ':xposetool'
+include ':app', ':pathtools', ':toolpackage', ':middleman'
+rootProject.name='Tools'

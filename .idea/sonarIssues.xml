@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/app/src/main/java/com/example/abnormalcheck/DeviceInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/dynamiccheck/src/main/java/com/example/dynamiccheck/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/testmode/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/testmode/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/testmode/src/main/java/com/example/testmode/Risk/RiskTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/cache/AbnormalCheck/testmode/src/main/res/layout/activity_risk_test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/androidTest/java/ewb/rmvd/mc/rk/RiskReleaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/androidTest/java/ewb/rmvd/rk/RkReleaseControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/debug/assets/pc.cg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/debug/java/easy/sdknicrolaunch/LaunchApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/debug/java/easy/sdknicrolaunch/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/DataEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/Detection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/DeviceChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/SdkRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/data/DataSample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/rk/RiskRelease.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/rk/RkReleaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/wda/PluginServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/ytu/Request.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-launch/src/main/java/ewb/rmvd/mc/ytu/SSLCheckTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-model/src/main/assets/pc.cg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-model/test.apk.cfg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Nicro/NicroLaunchWork/sdk-nicro-plugin-test/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/app/src/debug/java/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/app/src/main/java/com/simple/testmodel/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/app/src/main/java/com/simple/testmodel/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/gradleStudy/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/gradleStudy/src/main/groovy/com/simple/up/MyPlugin.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/gradleStudy/src/main/groovy/com/simple/up/PathTransform.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/gradleStudy/src/main/groovy/com/simple/up/PathTransform.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TestModel/repo/com/simple/up/MyPlugin/1.0.0/MyPlugin-1.0.0.jar!/com/simple/up/MyExtension.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/src/main/assets/pc.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/src/main/java/com/hooker/InjectHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/src/main/java/com/simple/thirdinject/FileMade.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/src/main/java/com/simple/thirdinject/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ThirdInject/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/android/content/pm/IPackageStatsObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/android/content/pm/IPackageStatsObserver.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/mtest/IPlayListener.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/aidl/mtest/PackageStats.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/easy/tools/MPackageManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/easy/tools/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/easy/tools/PackageManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/easy/tools/PermissionManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/guuidea/tools/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/easypermission/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/easypermission/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/easypermission/src/main/pluginManifest/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/fi/iki/elonen/InternalRewrite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/fi/iki/elonen/SimpleWebServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ActionBarActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/AppContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/adapter/HostAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/entity/Session.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/proxy/HttpProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/receiver/NetworkReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/ArpService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/BaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/HijackService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/HttpService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/InjectService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/KillService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/ProxyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/service/SnifferService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/AboutActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/BrowserActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/HijackActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/HijackHistory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/HostsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/HttpActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/HttpClone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/InjectActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/KillActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/MitmSelect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/ui/SniffActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/util/NetworkUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/util/RequestParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/widget/RadioDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/java/com/simple/middleman/lanmitm/widget/YesOrNoDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/res/values-zh-rCN/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/middleman/src/main/res/values/style.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/easy/android/tools/ChooseType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/easy/android/tools/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/easy/android/tools/FileUitl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/easy/android/tools/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/easy/android/tools/Path.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/guuidea/android/tools/ChooseType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/guuidea/android/tools/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/guuidea/android/tools/FileUitl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/guuidea/android/tools/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/guuidea/android/tools/Path.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/simple/pathtools/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/simple/pathtools/FileUitl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/simple/pathtools/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pathtools/src/main/java/com/simple/pathtools/Path.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/Entry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/FunctionTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/MyClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/NetTools/NetManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/RegularManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/Tool/FileManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolpackage/src/main/java/com/simple/toolpackage/Tool/RunTimeTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xposeplugin/src/main/java/com/simple/xposeplugin/hook/HookEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xposetool/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xposetool/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xposetool/src/main/assets/xposed_init">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xposetool/src/main/java/com/simple/xposetool/XposeMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../basic/modelMake/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nicrosdkwork/bigword/src/main/assets/pc.cg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nicrosdkwork/sdk.nicro.plugin.web/src/main/java/sdk/nicro/web/WebConfigList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nicrosdkwork/sdk.nicro.plugin.web/src/main/java/sdk/nicro/web/WebListItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nicrosdkwork/sdk.nicro.plugin.web/src/main/java/sdk/nicro/web/WebManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../nicrosdkwork/sdk.nicro.plugin.web/src/main/java/sdk/nicro/web/common/WebAssistant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../outsdkresearch/webviewresearch/src/main/java/com/simple/webviewresearch/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../rtoolkit/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../rtoolkit/xposed-tool/hooker-entry/src/main/java/com/tool/hooker/HookEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../rtoolkit/xposed-tool/hooker-inject/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../rtoolkit/xposed-tool/hooker-library/src/main/java/com/hooker/base/BaseHooker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/blackhole/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/blackhole/src/main/assets/pc.cg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/build/src/sdk/basic/tool/StrProcess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/buildscript/scripts/confuse.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/local/config.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk-nicro-plugin-test/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk-nicro-plugin-test/src/main/java/easy/sdknicroplugintest/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/build/generated/interface/sdk/basic/base/KeyInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/config/config0.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config2.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config3.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config4.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config5.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/ctest/config6.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/json/config1/atConfig.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/json/config1/atSevHost.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/json/config3/atConfig.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/android/tool/AntiEmulator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/base/UrlServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/base/network/CertificateCheckTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/base/network/SSLCheckTool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/base/network/connection/HTTPConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/tool/Sync.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkbasicwork/sdk.basic.lib/src/main/java/sdk/basic/tool/data/DataEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdklaunchwork/cngi.ad.jar/build/generated/interface/cngi/ad/jar/base/JsonKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdklaunchwork/cngi.ad.jar/build/outputs/jar/jar包的对接文档.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdklaunchwork/cngi.ad.runner/document/jar">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdklaunchwork/use.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/buildscript/scripts/ziptool.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_business/document/LoadAd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/build/generated/interface/com/cngi/jar/base/JsonKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/build/outputs/document/jar包的对接文档.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/cngi_jar.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/document/jar包的对接文档.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/document/jar包的对接文档模板.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/fulljar/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/fulljar/java/com/cngi/jar/DataRun.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/fulljar/java/com/cngi/jar/base/Pass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/purejarCn/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/purejarCn/document/jar包的对接文档.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/purejarCn/document/jar包的对接文档.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/purejarEn/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/cngi_jar/src/purejarEn/java/com/cngi/jar/base/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/gradlew">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdkmultiwork/use.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
